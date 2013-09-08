@@ -1,0 +1,37 @@
+
+def initVocabulary():
+    V = []
+    V.append("albero")
+    V.append("ciao")
+    V.append("casa")
+    V.append("baule")
+    V.append("cane")
+    V.append("dado")
+    V.append("dito")
+    V.append("erba")
+    V.append("elefante")
+    V.append("farfalla")
+    V.append("gioco")
+    V.append("grande")
+    V.append("hotel")
+    V.append("ira")
+    V.append("istrice")
+    V.append("limone")
+    V.append("moto")
+    V.append("nuoto")
+    V.append("nave")
+    V.append("parco")
+    V.append("paolo")
+    V.append("quadro")
+    V.append("rissa")
+    V.append("restare")
+    V.append("sala")
+    V.append("sana")
+    V.append("tavolo")
+    V.append("tenda")
+    V.append("troppo")
+    V.append("uva")
+    V.append("vino")
+    return V
+        
+    
